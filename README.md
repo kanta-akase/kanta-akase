@@ -2,4 +2,4 @@
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanta-akase&layout=compact&theme=tokyonight)](https://github.com/kanta-akase/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kanta-akase)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=kanta-akase)](https://github.com/ryo-ma/github-profile-trophy) -->
